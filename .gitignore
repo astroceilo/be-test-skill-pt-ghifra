@@ -5,7 +5,8 @@ node_modules/
 .env
 
 # Ignore database
-database.sqlite
+products.db
+*.db
 
 # Ignore log files
 logs/
