@@ -1,0 +1,14 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore .env
+.env
+
+# Ignore database
+database.sqlite
+
+# Ignore log files
+logs/
+
+# Ignore dist
+dist/
