@@ -132,6 +132,16 @@ Pengujian dilakukan secara manual menggunakan Postman dan browser.
 - Automated testing (Jest)
 - Logging system
 
+---
+
 ## 👨‍💻 Author
 
 Doni Anggara
+
+---
+
+## 📸 Screenshot
+
+### Backend API (Response)
+
+![Backend Screenshot](./screenshots/backend.png)
